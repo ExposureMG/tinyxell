@@ -1,3 +1,5 @@
+AI-Generated
+
 # tinyxell
 
 Launches a libxenon homebrew ELF from a `.xex` on an RGH/JTAG Xbox 360, without the full XeLL menu, fuse dump, or
