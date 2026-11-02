@@ -1,0 +1,6 @@
+build/
+stage1/build/
+*.o
+*.elf
+*.bin
+*.xex

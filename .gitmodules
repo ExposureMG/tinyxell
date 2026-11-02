@@ -1,0 +1,3 @@
+[submodule "external/xell-reloaded"]
+	path = external/xell-reloaded
+	url = https://github.com/Free60Project/xell-reloaded.git
